@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#hero-img {
+  width: 26vw;
+  height: 70vh;
+}
