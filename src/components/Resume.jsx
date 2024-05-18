@@ -4,7 +4,7 @@ function Resume() {
   return (
     <>
       <div className="w-1/2 m-auto">
-        <img src="../../public/media/Vishal-Resume.jpg" alt="" />
+        <img src="/media/Vishal-Resume.jpg" alt="" />
       </div>
     </>
   );
