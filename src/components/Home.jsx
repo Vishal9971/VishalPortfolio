@@ -11,30 +11,30 @@ function Home() {
             plagiarism for projects and assignments of international students. Graduated of Computer Application (2021).
           </p>
           <div className="flex flex-wrap">
-            <img className="w-13 rounded-md h-14 p-1 m-3" src="../../public/media/html.png" alt="HTML5" />
-            <img className="w-13 rounded-md h-14 p-1 m-3" src="../../public/media/css.png" alt="CSS3" />
-            <img className="w-13 rounded-md h-14 p-1 m-3" src="../../public/media/bootstrap.png" alt="Bootstrap" />
+            <img className="w-13 rounded-md h-14 p-1 m-3" src="/media/html.png" alt="HTML5" />
+            <img className="w-13 rounded-md h-14 p-1 m-3" src="/media/css.png" alt="CSS3" />
+            <img className="w-13 rounded-md h-14 p-1 m-3" src="/media/bootstrap.png" alt="Bootstrap" />
             <img
               className="w-13 rounded-md h-14 p-1 m-3 bg-white"
-              src="../../public/media/tailwind.png"
+              src="/media/tailwind.png"
               alt="Tailwind"
             />
-            <img className="w-13 rounded-md h-14 p-1 m-3" src="../../public/media/js.png" alt="JavaScript" />
-            <img className="w-13 rounded-md h-14 p-1 m-3 bg-white" src="../../public/media/jQuery.png" alt="jQuery" />
-            <img className="w-13 rounded-md h-14 p-1 m-3 bg-white" src="../../public/media/nodeJs.png" alt="NodeJs" />
+            <img className="w-13 rounded-md h-14 p-1 m-3" src="/media/js.png" alt="JavaScript" />
+            <img className="w-13 rounded-md h-14 p-1 m-3 bg-white" src="/media/jQuery.png" alt="jQuery" />
+            <img className="w-13 rounded-md h-14 p-1 m-3 bg-white" src="/media/nodeJs.png" alt="NodeJs" />
             <img
               className="w-13 rounded-md h-14 p-1 m-3 bg-white"
-              src="../../public/media/express.png"
+              src="/media/express.png"
               alt="ExpressJs"
             />
-            <img className="w-13 rounded-md h-14 p-1 m-3" src="../../public/media/mongo.jpeg" alt="MongoDb" />
-            <img className="w-13 rounded-md h-14 p-1 m-3" src="../../public/media/npm.png" alt="NPM" />
-            <img className="w-13 rounded-md h-14 p-1 m-3" src="../../public/media/react.png" alt="React" />
-            <img className="w-13 rounded-md h-14 p-1 m-3" src="../../public/media/redux.png" alt="Redux" />
+            <img className="w-13 rounded-md h-14 p-1 m-3" src="/media/mongo.jpeg" alt="MongoDb" />
+            <img className="w-13 rounded-md h-14 p-1 m-3" src="/media/npm.png" alt="NPM" />
+            <img className="w-13 rounded-md h-14 p-1 m-3" src="/media/react.png" alt="React" />
+            <img className="w-13 rounded-md h-14 p-1 m-3" src="/media/redux.png" alt="Redux" />
           </div>
         </div>
         <div className=" ">
-          <img className="" id="hero-img" src="../../public/media/Hero-img copy.jpg" alt="" />
+          <img className="" id="hero-img" src="/media/Hero-img copy.jpg" alt="" />
         </div>
       </div>
     </>

@@ -11,8 +11,8 @@ function Project() {
           name="Portfolio || Vishal Sharma"
           skill="React, React-Router-Dom, Tailwind"
           des="• Created my portfolio with react and styling with tailwind and deploy by netlify."
-          code="https://www.google.co.in/"
-          site="https://www.google.co.in/"
+          code="https://github.com/Vishal9971/VishalPortfolio"
+          site="https://vishalportfolio-1.onrender.com/"
         />
         <GridProject
           name="E-Commerce Web Application"
@@ -27,8 +27,8 @@ cart etc. • Created a REST API with NodeJS and MongoDB, and integrated secure 
           name="Passpord Suggestion"
           skill="React, Tailwind"
           des="• Created a web application by React using some hooks like {Use State, Use Effect}. This web application gives passpord suggestion. The styling of this application is very basic which is styled by the Tailwind css."
-          code="www.google.co.in"
-          site="www.facebook.com"
+          code="https://github.com/Vishal9971/passwordSuggestion"
+          site="https://passwordsuggestion-1.onrender.com/"
         />
         <GridProject
           name="Medium Clone Web Application"
@@ -42,22 +42,22 @@ cart etc. • Created a REST API with NodeJS and MongoDB, and integrated secure 
           name=" Shri Shyam Sweets"
           skill="JavaScript, HTML, CSS, Bootstrap"
           des=" • Deploy a responsive website using HTML, CSS, JavaScript for a sweet shop as per client satisfaction on the basis of requirement as a free-lancer."
-          code="www.google.co.in"
-          site="www.facebook.com"
+          code="https://github.com/Vishal9971/shrishyamsweets"
+          site="https://shrishyamsweets.com/"
         />
         <GridProject
           name=" Simon Game"
           skill="JavaScript, HTML, CSS, Bootstrap"
           des="• Creating a mind game with javascript with features such as click event, audio tracking, local storage."
-          code="www.google.co.in"
-          site="www.facebook.com"
+          code="https://github.com/Vishal9971/simonGame"
+          site="https://vishals-simongame.netlify.app"
         />
         <GridProject
           name="Snake Game"
           skill="JavaScript, HTML, CSS, Bootstrap"
           des="• Creating snake game fully functioning through canvas and build all logics. Deploy this game by Netlify using Github repo."
-          code="www.google.co.in"
-          site="www.facebook.com"
+          code="https://github.com/Vishal9971/snakeGame"
+          site="https://vishals-snakegame.netlify.app"
         />
       </div>
     </>
