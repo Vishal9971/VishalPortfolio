@@ -20,8 +20,8 @@ function Project() {
           des="• Created a fully functional ecommerce website that allows to shop from the wide range of products with features
 such as add-to-cart, admin dashboard, star rating, reviews, buyer seller dashboard, validations, payment, add-to
 cart etc. • Created a REST API with NodeJS and MongoDB, and integrated secure user authentication using passport.js."
-          code="www.google.co.in"
-          site="www.facebook.com"
+          code="https://github.com/Vishal9971/eCommerceClone"
+          site="https://ecommerceclone-epd4.onrender.com/products"
         />
         <GridProject
           name="Passpord Suggestion"
@@ -35,8 +35,8 @@ cart etc. • Created a REST API with NodeJS and MongoDB, and integrated secure 
           skill="NodeJS, Express, MongoDB,JavaScript, HTML, CSS, Bootstrap"
           des="• Created a fully functional blog website that allows to shop from the wide range of products with features such as adding blog, star rating, reviews, validations etc.
           • Created a REST API with NodeJS and MongoDB, and integrated secure user authentication using passport.js."
-          code="www.google.co.in"
-          site="www.facebook.com"
+          code="https://github.com/Vishal9971/Medium_clone"
+          site="https://medium-clone-u6s3.onrender.com/"
         />
         <GridProject
           name=" Shri Shyam Sweets"
