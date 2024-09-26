@@ -2,7 +2,7 @@
 function Home() {
   return (
     <>
-      <div className="max-w-6xl flex flex-wrap flex-row min-h-96 justify-center m-auto gap-20">
+      <div className="max-w-6xl flex flex-wrap flex-row min-h-96 justify-center m-auto gap-20 changes">
         <div className="text-white w-1/2  py-20">
           <h2 className="font-mono text-2xl py-4">Hi, I'm Vishal Sharma</h2>
           <p className="text-justify text-xl font-light">
@@ -33,8 +33,8 @@ function Home() {
             <img className="w-13 rounded-md h-14 p-1 m-3" src="/media/redux.png" alt="Redux" />
           </div>
         </div>
-        <div className=" ">
-          <img className="" id="hero-img" src="/media/Hero-img copy.jpg" alt="" />
+        <div className="hero-div">
+          <img className="hero-img" id="hero-img" src="/media/Hero-img copy.jpg" alt="" />
         </div>
       </div>
     </>
