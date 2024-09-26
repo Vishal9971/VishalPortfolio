@@ -5,3 +5,20 @@
   width: 26vw;
   height: 70vh;
 }
+
+@media (max-width: 600px) {
+  .changes {
+    flex-direction: column;
+    align-items: center;
+  }
+  .headerMedia {
+    flex-direction: column;
+  }
+
+  .headerMedia .Link {
+    padding: 10px;
+  }
+  .hero-img {
+    min-width: 250px;
+  }
+}
