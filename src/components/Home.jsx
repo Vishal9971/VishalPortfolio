@@ -6,9 +6,7 @@ function Home() {
         <div className="text-white w-1/2  py-20">
           <h2 className="font-mono text-2xl py-4">Hi, I'm Vishal Sharma</h2>
           <p className="text-justify text-xl font-light">
-            I am Full Stack Developer who is addicted to learn new things and work with team. I have experience for
-            2-year with <span className="font-medium">Sharma Trading and Service</span> of writing code without
-            plagiarism for projects and assignments of international students. Graduated of Computer Application (2021).
+            I am Full Stack Developer who is addicted to learn new things and work with team. I have done Data Structure and Algorithm with JAVA course and Mern Stack Web Developemnet course from Coding Blocks. Graduated of Computer Application (2021).
           </p>
           <div className="flex flex-wrap">
             <img className="w-13 rounded-md h-14 p-1 m-3" src="/media/html.png" alt="HTML5" />
